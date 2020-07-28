@@ -9,4 +9,5 @@ this model is based on this conference Paper: [researchgate.net](https://www.res
 
 ### Results
 my result after 10 epochs:
-![results after 10 epochs](https://github.com/ZeinabTaghavi/Movie-recommender-system/blob/master/results.png?raw=true)
+
+![results after 10 epochs](https://github.com/ZeinabTaghavi/Movie-recommender-system/blob/master/results.png =250x250)
